@@ -13,14 +13,29 @@ const lastname = "Dudarev";
 // Exercise 2
 
 let fullName = firstname + " " + lastname;
-console.log(fullName)
+console.log("My name is " + fullName + ".");
 
 // Exercise 3
 
 let city = "Hampton"
-let passTime = "I have been at Olimpics!"
+let passTime = "Sport!"
 
  let myStory = `\Hello! My name is ${fullName}. I live in ${city}. I enjoy ${passTime} and coding!`;
 
 
-console.log(myStory)
+console.log(myStory); 
+
+
+
+
+ 
+  
+  
+
+
+
+
+
+
+
+
